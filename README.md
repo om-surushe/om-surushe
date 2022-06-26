@@ -6,9 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- I recently worked on **[ViswaSocial](https://vishwasocial.pythonanywhere.com/)**
 
-- 👨‍💻 I’m actively looking for work in **Backend Development.**
+- My Expense Tracker on **[MoneyFlow](http://omsdp.herokuapp.com/)**
+
+- 👨‍💻 I’m actively looking for work in **FullStack Development.**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
@@ -17,6 +19,8 @@
 - 📫 How to reach me **omsurush1907@gmail.com**
 
 - ⚡ Fun fact **I am very curious about how everything around us work.**
+
+- Could use my tool on **[Whatsapp-Redirect](https://cutt.ly/wamsg)**
 
 ## 🚀 Languages and Tools:
 
