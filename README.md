@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- I recently worked on **[ViswaSocial](https://vishwasocial.pythonanywhere.com/)**
+- I recently worked on **[Viswa Connect](https://vishwaconnect.ml/)**
 
 - My Expense Tracker on **[MoneyFlow](http://omsdp.herokuapp.com/)**
 
