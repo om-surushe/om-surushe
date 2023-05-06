@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="developer_activity.svg"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Om</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- I recently worked on **[Viswa Connect](https://vishwaconnect.ml/)**
+<!-- - I recently worked on **[Viswa Connect](https://vishwaconnect.ml/)** -->
 
-- My Expense Tracker on **[MoneyFlow](http://omsdp.herokuapp.com/)**
+<!-- - My Expense Tracker on **[MoneyFlow](http://omsdp.herokuapp.com/)** -->
 
 - 👨‍💻 I’m actively looking for work in **FullStack Development.**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I am very curious about how everything around us work.**
 
-- Could use my tool on **[Whatsapp-Redirect](https://cutt.ly/wamsg)**
+<!-- - Could use my tool on **[Whatsapp-Redirect](https://cutt.ly/wamsg)** -->
 
 ## 🚀 Languages and Tools:
 
@@ -34,13 +34,14 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/flutter.png"/> </a>
     <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/undefined/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png"/> </a> 
     <a href="https://www.djangoproject.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/django.png"/> </a>
-    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://img.icons8.com/ios/50/undefined/flask.png"/> </a>
+    <a href="https://palletsprojects.com/p/flask/" target="_blank" > <img style="background:white;" src="https://img.icons8.com/ios/50/undefined/flask.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
 </p>
 </p>
 
@@ -65,7 +66,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/om-surushe/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=om-surushe&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/om-surushe/github-readme-activity-graph"></a>
 
 <br/>
 <br/>
