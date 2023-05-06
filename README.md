@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="developer_activity.svg"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Om</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Om</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **omsurush1907@gmail.com**
 
-- ⚡ Fun fact **I am very curious about how everything around us work.**
+- ⚡ **I am very curious about how everything around us work.**
 
 <!-- - Could use my tool on **[Whatsapp-Redirect](https://cutt.ly/wamsg)** -->
 
