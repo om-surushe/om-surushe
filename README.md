@@ -72,20 +72,6 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 
 ---
 
-### 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
-  </picture>
-  
-  <sub>🔄 Snake animation runs daily via GitHub Actions. <a href="https://github.com/om-surushe/om-surushe/actions/workflows/snake.yml">Trigger manually</a> if not visible.</sub>
-</div>
-
----
-
 ### 🌟 Featured Projects
 
 <div align="center">
