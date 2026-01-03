@@ -1,24 +1,36 @@
-
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <h1>Hi there, I'm Om Surushe!</h1>
-  <p><strong>Full Stack Developer | Cloud & AI Enthusiast</strong></p>
-  <p>Based in Pune, Maharashtra 🇮🇳</p>
-
-  <a href="https://omsurushe.bio.link/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=linktree" alt="Portfolio">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Surushe;Full+Stack+Developer;Cloud+%26+AI+Enthusiast;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-surushe/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/om_surushe">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://drive.google.com/file/d/1ZzCNf_93Ber2KavDcbs3dvehr9lzuTjq/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:om.surushe.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://omsurushe.bio.link/">
+    <img src="https://img.shields.io/badge/All_Links-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio Link" />
+  </a>
+</p>
+
+<p align="center">📍 Pune, Maharashtra 🇮🇳 • Open to opportunities</p>
+
+---
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer building scalable web and mobile applications. I love exploring the intersection of **Cloud Computing** and **Artificial Intelligence**.
+I'm a **Full Stack Developer** with experience in building scalable web & mobile applications. I love exploring the intersection of **Cloud Computing** and **Artificial Intelligence**.
 
-- 🔭 I’m currently working on **Generative AI applications** and **PWA solutions**.
-- 🌱 I’m currently learning **Advanced Microservices** and **MLOps**.
-- 💬 Ask me about **React, Next.js, Python, and Cloud Architecture**.
+- 🔭 Currently working on **Generative AI applications** and **PWA solutions**
+- 🌱 Learning **Advanced Microservices** and **MLOps**
+- 💬 Ask me about **React, Next.js, Python, Django, and Cloud Architecture**
 
 ---
 
@@ -26,22 +38,23 @@ I'm a passionate developer building scalable web and mobile applications. I love
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+**Languages**
 
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.svg&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Backend & Cloud**<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Cloud**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -50,8 +63,24 @@ I'm a passionate developer building scalable web and mobile applications. I love
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-surushe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Om's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-surushe&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=om-surushe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-surushe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-surushe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -60,20 +89,12 @@ I'm a passionate developer building scalable web and mobile applications. I love
 
 <div align="center">
 
-| **[GrocerTrack PWA](https://github.com/om-surushe/grocertrack-pwa)** |
-| :---: |
-| A minimalist, offline-first grocery shopping tracker PWA. <br/> *React, Tailwind, LocalStorage* |
+[![GrocerTrack PWA](https://github-readme-stats.vercel.app/api/pin/?username=om-surushe&repo=grocertrack-pwa&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/om-surushe/grocertrack-pwa)
 
 </div>
 
 ---
 
 <div align="center">
-  <p>📫 How to reach me</p>
-  <a href="https://linkedin.com/in/omsurushe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:om.surushe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=om-surushe&style=for-the-badge&color=6366F1" alt="Profile Views" />
 </div>
