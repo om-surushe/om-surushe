@@ -60,20 +60,17 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=om-surushe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-surushe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-surushe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=om-surushe&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
@@ -81,6 +78,8 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/om-surushe/om-surushe/output/snake.svg" />
   </picture>
+  
+  <sub>🔄 Snake animation runs daily via GitHub Actions. <a href="https://github.com/om-surushe/om-surushe/actions/workflows/snake.yml">Trigger manually</a> if not visible.</sub>
 </div>
 
 ---
@@ -89,7 +88,9 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 
 <div align="center">
 
-[![GrocerTrack PWA](https://github-readme-stats.vercel.app/api/pin/?username=om-surushe&repo=grocertrack-pwa&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/om-surushe/grocertrack-pwa)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA |
 
 </div>
 
