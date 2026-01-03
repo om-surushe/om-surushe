@@ -64,7 +64,9 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=om-surushe&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+![om-surushe's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=om-surushe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true)
+
+<sub>📊 Stats may take a moment to load. View my <a href="https://github.com/om-surushe?tab=overview">contribution graph</a> for real-time activity.</sub>
 
 </div>
 
