@@ -76,6 +76,7 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
 | [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA | [🔗 Live](https://grocertrack.vercel.app/) |
+| [**Adaptive Memory**](https://github.com/om-surushe/owui-adaptive-memory) | Persistent memory plugin for OpenWebUI LLMs | Python, OpenWebUI | [📖 Docs](https://github.com/om-surushe/owui-adaptive-memory#readme) |
 
 </div>
 
