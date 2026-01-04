@@ -76,9 +76,9 @@ I'm a **Full Stack Developer** with experience in building scalable web & mobile
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA |
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA | [🔗 Live](https://grocertrack.vercel.app/) |
 
 </div>
 
