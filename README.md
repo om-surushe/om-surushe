@@ -12,9 +12,6 @@
   <a href="https://drive.google.com/file/d/1ZzCNf_93Ber2KavDcbs3dvehr9lzuTjq/view">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-  <a href="mailto:om.surushe.connect@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://omsurushe.bio.link/">
     <img src="https://img.shields.io/badge/All_Links-8B5CF6?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio Link" />
   </a>
