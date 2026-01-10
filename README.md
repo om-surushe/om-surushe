@@ -9,7 +9,7 @@
   <a href="https://x.com/om_surushe">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://drive.google.com/file/d/1ZzCNf_93Ber2KavDcbs3dvehr9lzuTjq/view">
+  <a href="https://om-surushe.tiiny.site">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
   <a href="https://omsurushe.bio.link/">
