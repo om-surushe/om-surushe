@@ -17,17 +17,13 @@
   </a>
 </p>
 
-<p align="center">📍 Pune, Maharashtra 🇮🇳 • Open to opportunities</p>
+<p align="center">📍 Pune, Maharashtra 🇮🇳 • Open to collaborations</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with experience in building scalable web & mobile applications. I love exploring the intersection of **Cloud Computing** and **Artificial Intelligence**.
-
-- 🔭 Currently working on **Generative AI applications** and **PWA solutions**
-- 🌱 Learning **Advanced Microservices** and **MLOps**
-- 💬 Ask me about **React, Next.js, Python, Django, and Cloud Architecture**
+I enjoy building software systems, automating workflows, and turning real-world problems into practical solutions.
 
 ---
 
