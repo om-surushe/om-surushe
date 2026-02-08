@@ -21,9 +21,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 I enjoy building software systems, automating workflows, and turning real-world problems into practical solutions.
+
+---
+
+### 📦 Published Packages
+
+<div align="center">
+
+[![npm](https://img.shields.io/npm/v/@om-surushe/efficient-ticktick?style=for-the-badge&logo=npm&label=Efficient%20TickTick)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick)
+[![npm downloads](https://img.shields.io/npm/dm/@om-surushe/efficient-ticktick?style=for-the-badge&logo=npm&label=Downloads)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick)
+
+**Efficient TickTick MCP** - LLM-optimized task management with 70% lower token costs  
+Part of the Efficient MCP series | [📖 Docs](https://github.com/om-surushe/efficient-ticktick#readme)
+
+</div>
 
 ---
 
@@ -71,6 +85,7 @@ I enjoy building software systems, automating workflows, and turning real-world 
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
+| [**Efficient TickTick**](https://github.com/om-surushe/efficient-ticktick) 📦 | LLM-optimized TickTick MCP (published on npm) | TypeScript, Bun, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) |
 | [**ModelPilot**](https://github.com/om-surushe/ModelPilot) | Smart LLM routing & load balancing proxy | Python, LiteLLM, Docker | [📖 Docs](https://github.com/om-surushe/ModelPilot#readme) |
 | [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA | [🔗 Live](https://grocertrack.vercel.app/) |
 | [**Adaptive Memory**](https://github.com/om-surushe/owui-adaptive-memory) | Persistent memory plugin for OpenWebUI LLMs | Python, OpenWebUI | [📖 Docs](https://github.com/om-surushe/owui-adaptive-memory#readme) |
