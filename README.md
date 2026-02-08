@@ -31,11 +31,12 @@ I enjoy building software systems, automating workflows, and turning real-world 
 
 <div align="center">
 
-[![npm](https://img.shields.io/npm/v/@om-surushe/efficient-ticktick?style=for-the-badge&logo=npm&label=Efficient%20TickTick)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick)
-[![npm downloads](https://img.shields.io/npm/dm/@om-surushe/efficient-ticktick?style=for-the-badge&logo=npm&label=Downloads)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick)
+| Package | Description | Downloads |
+|---------|-------------|-----------|
+| [**Efficient TickTick**](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) | LLM-optimized task management (70% lower tokens) | [![npm](https://img.shields.io/npm/dm/@om-surushe/efficient-ticktick)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) |
+| [**Efficient Search**](https://www.npmjs.com/package/@om-surushe/efficient-search) | LLM-optimized web search with rich metadata | [![npm](https://img.shields.io/npm/dm/@om-surushe/efficient-search)](https://www.npmjs.com/package/@om-surushe/efficient-search) |
 
-**Efficient TickTick MCP** - LLM-optimized task management with 70% lower token costs  
-Part of the Efficient MCP series | [📖 Docs](https://github.com/om-surushe/efficient-ticktick#readme)
+**Part of the Efficient MCP series** - Tools optimized for LLM consumption with minimal token usage
 
 </div>
 
@@ -86,6 +87,7 @@ Part of the Efficient MCP series | [📖 Docs](https://github.com/om-surushe/eff
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
 | [**Efficient TickTick**](https://github.com/om-surushe/efficient-ticktick) 📦 | LLM-optimized TickTick MCP (published on npm) | TypeScript, Bun, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) |
+| [**Efficient Search**](https://github.com/om-surushe/efficient-search) 📦 | LLM-optimized web search MCP (published on npm) | TypeScript, Bun, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-search) |
 | [**ModelPilot**](https://github.com/om-surushe/ModelPilot) | Smart LLM routing & load balancing proxy | Python, LiteLLM, Docker | [📖 Docs](https://github.com/om-surushe/ModelPilot#readme) |
 | [**GrocerTrack PWA**](https://github.com/om-surushe/grocertrack-pwa) | Offline-first grocery shopping tracker | React, Tailwind, PWA | [🔗 Live](https://grocertrack.vercel.app/) |
 | [**Adaptive Memory**](https://github.com/om-surushe/owui-adaptive-memory) | Persistent memory plugin for OpenWebUI LLMs | Python, OpenWebUI | [📖 Docs](https://github.com/om-surushe/owui-adaptive-memory#readme) |
