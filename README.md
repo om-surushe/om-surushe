@@ -35,6 +35,7 @@ I enjoy building software systems, automating workflows, and turning real-world 
 |---------|-------------|-----------|
 | [**Efficient TickTick**](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) | LLM-optimized task management (70% lower tokens) | [![npm](https://img.shields.io/npm/dm/@om-surushe/efficient-ticktick)](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) |
 | [**Efficient Search**](https://www.npmjs.com/package/@om-surushe/efficient-search) | LLM-optimized web search with rich metadata | [![npm](https://img.shields.io/npm/dm/@om-surushe/efficient-search)](https://www.npmjs.com/package/@om-surushe/efficient-search) |
+| [**Efficient ADO**](https://www.npmjs.com/package/@om-surushe/efficient-ado) | 35 LLM-optimized Azure DevOps tools for AI assistants | [![npm](https://img.shields.io/npm/dm/@om-surushe/efficient-ado)](https://www.npmjs.com/package/@om-surushe/efficient-ado) |
 
 **Part of the Efficient MCP series** - Tools optimized for LLM consumption with minimal token usage
 
@@ -86,6 +87,7 @@ I enjoy building software systems, automating workflows, and turning real-world 
 
 | Project | Description | Tech | Demo |
 |---------|-------------|------|------|
+| [**Efficient ADO**](https://github.com/om-surushe/efficient-ado) 📦 🆕 | 35 Azure DevOps tools for AI assistants (published on npm) | TypeScript, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-ado) |
 | [**Efficient TickTick**](https://github.com/om-surushe/efficient-ticktick) 📦 | LLM-optimized TickTick MCP (published on npm) | TypeScript, Bun, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-ticktick) |
 | [**Efficient Search**](https://github.com/om-surushe/efficient-search) 📦 | LLM-optimized web search MCP (published on npm) | TypeScript, Bun, MCP | [📦 npm](https://www.npmjs.com/package/@om-surushe/efficient-search) |
 | [**ModelPilot**](https://github.com/om-surushe/ModelPilot) | Smart LLM routing & load balancing proxy | Python, LiteLLM, Docker | [📖 Docs](https://github.com/om-surushe/ModelPilot#readme) |
